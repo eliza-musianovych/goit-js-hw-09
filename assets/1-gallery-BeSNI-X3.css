@@ -1,0 +1,1 @@
+.gallery{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;gap:24px;margin:24px auto}.gallery:hover{cursor:pointer}.sl-caption{text-align:center}.sl-overlay{background-color:#2e2f42cc}.sl-close{color:#fff;width:14px;height:14px;margin-top:25px;margin-right:25px}.sl-next,.sl-prev{color:#fff;width:24px;height:24px}.sl-image{justify-items:center}
