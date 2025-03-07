@@ -28,8 +28,9 @@ form.addEventListener("submit", (event) => {
 event.preventDefault();
 
 if (email.value.trim() === "" || message.value.trim() === "") {
-    return console.log("Fill please all fields");
+    return alert("Fill please all fields");
 }
+console.log(formData);
 localStorage.removeItem("feedback-form-state")
 form.reset();
 });
